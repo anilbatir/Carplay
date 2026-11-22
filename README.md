@@ -21,3 +21,12 @@ Derleme gerekmez; `index.html` dosyasını tarayıcıda açmak ya da GitHub Page
 
 - `frontend-design` ([anthropics/skills](https://github.com/anthropics/skills))
 - `find-skills` ([vercel-labs/skills](https://github.com/vercel-labs/skills)): yeni skill bulup kurmak için (`npx skills find <konu>`)
+- `site-uyarla` (Anıl BATIR için yazıldı): bir referans siteyi inceleyip yeni bir konuya uyarlar; önce ikiz site, sonra küçük farklar
+
+### Kütüphaneye eklenecek skill'ler (hazırlık listesi)
+
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): `claude-code-setup` (proje için araç önerisi)
+- [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft): kaydırmalı premium siteler
+- [usestrix/strix](https://github.com/usestrix/strix): güvenlik testi (9 skill)
+- [amaancoderx/npxskillui](https://github.com/amaancoderx/npxskillui): siteden tasarım çıkarma aracı (`npx skillui`)
+- anilbatir-design: anilbatir.com'un skillui ile çıkarılmış tasarım skill'i (`tasarimlar/` klasörüne)
